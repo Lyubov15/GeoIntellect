@@ -18,7 +18,11 @@
         right: 10px;
         top: 80px;
         bottom: 10px;
+<<<<<<< HEAD
         width: max-content;
+=======
+        width: auto;
+>>>>>>> ce122aad3b9be4d549540623a6b8e12b24a5ac84
         max-height: calc(100vh - 90px);
     }
 
@@ -27,7 +31,11 @@
     }
 
     .header-logo {
+<<<<<<< HEAD
         width: max-content;
+=======
+        width: 40px;
+>>>>>>> ce122aad3b9be4d549540623a6b8e12b24a5ac84
         height: 40px;
         font-size: 20px;
     }
@@ -65,8 +73,12 @@
     }
 
     .header-logo {
+<<<<<<< HEAD
         width: max-content;
         min-width: max-content;
+=======
+        width: 36px;
+>>>>>>> ce122aad3b9be4d549540623a6b8e12b24a5ac84
         height: 36px;
         font-size: 18px;
         flex-shrink: 0;

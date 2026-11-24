@@ -25,7 +25,11 @@
     display: inline-flex;
     align-items: flex-start;
     text-decoration: none;
+<<<<<<< HEAD
     gap: 8px;
+=======
+    gap: 50px;
+>>>>>>> ce122aad3b9be4d549540623a6b8e12b24a5ac84
     position: relative;
     transition: var(--transition);
     padding-top: 0;
@@ -36,12 +40,19 @@
 }
 
 .header-logo {
+<<<<<<< HEAD
     width: max-content;
     min-width: max-content;
     height: 60px;
     padding: 0 8px;
     background: var(--bg-dark);
     color: var(--primary-color);
+=======
+    width: 60px;
+    height: 60px;
+    background: var(--primary-color);
+    color: var(--bg-dark);
+>>>>>>> ce122aad3b9be4d549540623a6b8e12b24a5ac84
     font-size: 36px;
     font-weight: bold;
     display: flex;
@@ -51,7 +62,10 @@
     transition: var(--transition);
     box-shadow: var(--shadow);
     position: relative;
+<<<<<<< HEAD
     flex: 0 0 auto;
+=======
+>>>>>>> ce122aad3b9be4d549540623a6b8e12b24a5ac84
     overflow: hidden;
 }
 
@@ -79,15 +93,25 @@
 }
 
 .header-title {
+<<<<<<< HEAD
     color: var(--brand-blue);
+=======
+    color: var(--text-light);
+>>>>>>> ce122aad3b9be4d549540623a6b8e12b24a5ac84
     font-size: 28px;
     margin-bottom: 10px;
     margin-top: 10px;
     font-weight: bold;
     letter-spacing: 2px;
     text-transform: uppercase;
+<<<<<<< HEAD
     background: none;
     -webkit-background-clip: text;
+=======
+    background: var(--accent-gradient);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+>>>>>>> ce122aad3b9be4d549540623a6b8e12b24a5ac84
     background-clip: text;
 }
 
