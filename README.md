@@ -1,5 +1,5 @@
 
-# GeoIntellect — Геоинформационная система поддержки решений в ритейле
+# GeoIntellect
 
 Интерактивная карта и аналитическая платформа для анализа существующих объектов и выявления перспективных локаций для размещения новых объектов.
 
@@ -57,13 +57,13 @@ shopping_malls/
 1. Клонируйте репозиторий:
 
    ```bash
-   git clone https://github.com/Lyubov15/shopping_malls.git
+   git clone https://github.com/Lyubov15/GeoIntellect.git
    ```
 
 2. Перейдите в каталог проекта:
 
    ```bash
-   cd shopping_malls
+   cd GeoIntellect
    ```
 
 3. Установите зависимости бэкенда:
